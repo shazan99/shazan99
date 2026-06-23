@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shazan99" alt="shazan99" /></a> </p>
 
-- 🔭 I’m currently learning **Backend-Development in JS Stack**
+- 🔭 I’m currently a **Backend-Developer**
 
-- 🌱 I have experience in **Java, Spring Framework, Relational Databases and building CI/CD Pipelines**
+- 🌱 I have experience in **Java, Spring Framework, Relational Databases, Mongo, Redis, AWS and building CI/CD Pipelines**
 
 - 📫 How to reach me **shazan.ahmed.cs@gmail.com**
 
