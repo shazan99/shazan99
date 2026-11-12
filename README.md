@@ -53,7 +53,7 @@ I'm a **backend developer from India** who enjoys building reliable services and
   </tr>
   <tr>
     <td><b>Also worked with</b></td>
-    <td><img src="https://skillicons.dev/icons?i=selenium,tensorflow,sklearn" alt="Selenium, TensorFlow, scikit-learn" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="40" /></td>
   </tr>
 </table>
 
