@@ -19,7 +19,7 @@
 
 ## 👋 About me
 
-I'm a **backend developer from India** who enjoys designing and scaling **distributed systems** — event-driven services, the data stores behind them and the pipelines that ship them.
+I'm a **backend developer** who enjoys designing and scaling **distributed systems** — event-driven services, the data stores behind them and the pipelines that ship them.
 
 - 🔭 Day to day I build **backend microservices** in **Java** and **Spring Boot**
 - 📨 I like **event-driven architecture** — messaging and streaming with **Apache Kafka**
