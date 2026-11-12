@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Shazan%20Ahmed&fontSize=64&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20India&descSize=20&descAlignY=58&animation=fadeIn" alt="Shazan Ahmed — Backend Developer, India" width="100%" />
 
 <a href="https://github.com/shazan99">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Backend+Developer+%E2%98%95+Java+%2B+Spring;Designing+APIs%2C+data+stores+and+pipelines;MySQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+AWS;Currently+exploring+TypeScript%2C+React+%26+GraphQL" alt="Backend Developer — Java + Spring · MySQL · MongoDB · Redis · AWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Backend+Developer+%E2%98%95+Java+%2B+Spring+Boot;Distributed+systems+%26+event-driven+architecture;Kafka+%C2%B7+MySQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+AWS;Microservices%2C+concurrency+%26+system+design" alt="Backend Developer — Java + Spring Boot · distributed systems · Kafka · MySQL · MongoDB · Redis · AWS" />
 </a>
 
 <p>
@@ -19,12 +19,13 @@
 
 ## 👋 About me
 
-I'm a **backend developer from India** who enjoys building reliable services and the plumbing behind them — APIs, data stores and the pipelines that ship them.
+I'm a **backend developer from India** who enjoys designing and scaling **distributed systems** — event-driven services, the data stores behind them and the pipelines that ship them.
 
-- 🔭 Day to day I work as a **Backend Developer**, mostly in **Java** and the **Spring** ecosystem
-- 🗄️ Comfortable across **relational databases, MongoDB and Redis**
+- 🔭 Day to day I build **backend microservices** in **Java** and **Spring Boot**
+- 📨 I like **event-driven architecture** — messaging and streaming with **Apache Kafka**
+- 🗄️ Comfortable across **SQL and NoSQL** — MySQL, MongoDB and Redis
 - ☁️ I deploy on **AWS** and like building **CI/CD pipelines** that make releases boring
-- 🌱 Lately exploring the other side of the stack — **TypeScript, React, GraphQL** and **React Native**
+- 🌱 Lately going deeper into **distributed systems** — concurrency, rate limiting, caching and **system design**
 - 🧠 Side interests: data structures & algorithms — I practice on [LeetCode](https://leetcode.com/u/shazanahmed1/)
 - 📫 Reach me at **[shazan.ahmed.cs@gmail.com](mailto:shazan.ahmed.cs@gmail.com)** or on [LinkedIn](https://linkedin.com/in/shazan-ahmed-60187268)
 
@@ -33,27 +34,23 @@ I'm a **backend developer from India** who enjoys building reliable services and
 <table>
   <tr>
     <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,spring,maven,nodejs,graphql" alt="Java, Spring, Maven, Node.js, GraphQL" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,spring,hibernate,kafka,graphql,maven" alt="Java, Spring Boot, Hibernate, Apache Kafka, GraphQL, Maven" height="40" /></td>
   </tr>
   <tr>
     <td><b>Data</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" alt="MySQL, MongoDB, Redis" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite" alt="MySQL, MongoDB, Redis, SQLite" height="40" /></td>
   </tr>
   <tr>
     <td><b>Cloud &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,firebase" alt="AWS, Docker, Git, GitHub, Vercel, Firebase" height="40" /></td>
-  </tr>
-  <tr>
-    <td><b>Frontend &amp; Mobile</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,react,vite,html,css" alt="TypeScript, JavaScript, React / React Native, Vite, HTML, CSS" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" alt="AWS, Docker, Linux, Git, GitHub" height="40" /></td>
   </tr>
   <tr>
     <td><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=java,py,cpp,c,ts,js" alt="Java, Python, C++, C, TypeScript, JavaScript" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,py,cpp,js" alt="Java, Python, C++, JavaScript" height="40" /></td>
   </tr>
   <tr>
     <td><b>Also worked with</b></td>
-    <td><img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" height="40" /></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,react,html,css" alt="TypeScript, React, HTML, CSS" height="40" /></td>
   </tr>
 </table>
 
