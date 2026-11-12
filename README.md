@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Shazan%20Ahmed&fontSize=64&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20India&descSize=20&descAlignY=58&animation=fadeIn" alt="Shazan Ahmed — Backend Developer, India" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=210&section=header&text=Shazan%20Ahmed&fontSize=64&fontAlignY=36&desc=Backend%20Developer%20%E2%80%A2%20India&descSize=20&descAlignY=58&animation=fadeIn" alt="Shazan Ahmed — Senior Backend Developer" width="100%" />
 
 <a href="https://github.com/shazan99">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Backend+Developer+%E2%98%95+Java+%2B+Spring+Boot;Distributed+systems+%26+event-driven+architecture;Kafka+%C2%B7+MySQL+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+AWS;Microservices%2C+concurrency+%26+system+design" alt="Backend Developer — Java + Spring Boot · distributed systems · Kafka · MySQL · MongoDB · Redis · AWS" />
